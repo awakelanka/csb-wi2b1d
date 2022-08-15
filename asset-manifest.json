@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://awakelanka.github.io/csb-wi2b1d/static/css/main.ebaeda66.chunk.css",
-    "main.js": "https://awakelanka.github.io/csb-wi2b1d/static/js/main.90dbdf19.chunk.js",
-    "main.js.map": "https://awakelanka.github.io/csb-wi2b1d/static/js/main.90dbdf19.chunk.js.map",
+    "main.js": "https://awakelanka.github.io/csb-wi2b1d/static/js/main.1b0c021c.chunk.js",
+    "main.js.map": "https://awakelanka.github.io/csb-wi2b1d/static/js/main.1b0c021c.chunk.js.map",
     "runtime-main.js": "https://awakelanka.github.io/csb-wi2b1d/static/js/runtime-main.09223d08.js",
     "runtime-main.js.map": "https://awakelanka.github.io/csb-wi2b1d/static/js/runtime-main.09223d08.js.map",
     "static/js/2.ebb75f06.chunk.js": "https://awakelanka.github.io/csb-wi2b1d/static/js/2.ebb75f06.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.09223d08.js",
     "static/js/2.ebb75f06.chunk.js",
     "static/css/main.ebaeda66.chunk.css",
-    "static/js/main.90dbdf19.chunk.js"
+    "static/js/main.1b0c021c.chunk.js"
   ]
 }
